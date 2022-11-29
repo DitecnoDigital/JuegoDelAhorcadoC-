@@ -1,4 +1,4 @@
-![This is me](https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaJuanJose.png)
+![This is me](https://github.com/DitecnoDigital/JuegoDelAhorcadoC-/blob/main/PortadaJuegoAhorcado.png)
 
 # Juego "El Ahorcado"
 Tutorial de como realizar "Juego del Ahorcado" en  lenguaje C++ donde puedes ver el paso a paso en:
